@@ -28,7 +28,6 @@ I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, Ind
 Languages | ![Django](https://img.shields.io/badge/-Django%20-red) ![Python](https://img.shields.io/badge/-Python%20-blue)<br>![JavaScipt](https://img.shields.io/badge/-JavaScipt%20-green)
 :--- | :---
 **Coding** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Coding** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Frameworks | :---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
