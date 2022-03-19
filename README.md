@@ -20,7 +20,6 @@ I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, Ind
 
 
 
-
 ### 🔨 Technologies
 
 ---
