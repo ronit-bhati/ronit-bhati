@@ -15,8 +15,8 @@ I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, Ind
 
 - 🖥 Favorite language: Python
 - ⌨️ Keyboard: HP GK100 - Blue Switch
-- 🐧 Current Linux Distro: Endeavour OS Atlantis Neo (XFCE Edition)
-- 🀄 Favorite DEs: XFCE, KDE
+- 🐧 Current Linux Distro: Pop OS 21.10 (Cosmic Edition)
+- 🀄 Favorite DEs: GNOME (Pop OS Cosmic Edition), KDE
 
 
 
