@@ -29,4 +29,4 @@ I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, Ind
 **Frameworks** | ![Django](https://img.shields.io/badge/-Django-brown) ![Flask](https://img.shields.io/badge/-Flask-black) ![Tkinter](https://img.shields.io/badge/-Tkinter-lightgrey)
 **Coding** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit-bhati_icons=true)" alt="GitHub readme stats" width=405px>
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati)](https://github.com/ronit-bhati/github-readme-stats)" alt="GitHub readme stats" width=405px>
