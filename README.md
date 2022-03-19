@@ -2,22 +2,21 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
-## 🍀 Hey there!
+## Hey there!
 
-I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
+I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, India.
 
-* Maintainer at [Waycrate](https://github.com/waycrate), an organization creating suckless tools in Rust.
-* Software developer for [Axyl](https://axylos.org/), an Arch Linux-based distribution.
-* Elite contributor at [Wareneutron Developers](https://wareneutron.com).
-* Frequent anime watcher.
+* Working in Python and JavaScipt from a long time.
+* A learning web developer. Working with Django, JavaScipt, HTML, CSS, learning React Js.
+* Linux Enthusiast and using linux since 2020.
+* Loves Avaiation.
 
 ### About Me
 
-- 🖥 Favorite language: Rust (memory safety go brrr)
-- 🎨 Favorite color scheme: Gruvbox Material
-- ⌨️ Keyboard: Royal Kludge RK71 - Brown Switch
-- 🐧 Current Linux Distro: Artix Linux (runit version)
-- 🀄 Favorite anime: Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
+- 🖥 Favorite language: Python (short codes go brrr)
+- ⌨️ Keyboard: HP GK100 - Blue Switch
+- 🐧 Current Linux Distro: Ubuntu 21.10 (Impish Indri)
+- 🀄 Favorite DE: Gnome 40 
 
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
