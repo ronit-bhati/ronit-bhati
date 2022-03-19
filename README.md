@@ -1,6 +1,6 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Python%2C+Django%2C+Linux;JavaScipt%2C+HTML%2C+CSS" alt="Django, Python, JavaScipt"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Ronit&nbsp;Bhati's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Ronit&nbsp;Bhati's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=451px align=right>
 
 ## Hey there!
 
