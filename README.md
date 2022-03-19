@@ -13,7 +13,7 @@ I am an 15 year old Student, Programmer and Linux enthusiast from the Delhi, Ind
 
 ### About Me
 
-- 🖥 Favorite language: Python (short codes go brrr)
+- 🖥 Favorite language: Python
 - ⌨️ Keyboard: HP GK100 - Blue Switch
 - 🐧 Current Linux Distro: Ubuntu 21.10 (Impish Indri)
 - 🀄 Favorite DE: Gnome 40 
