@@ -11,11 +11,13 @@ I am an 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Linux Enthusiast and using linux since 2020.
 * Loves Avaiation.
 
-### About Me
+### Some Info
 
 - 🖥 Favorite language: Python
-- ⌨️ Keyboard: HP GK100 - Blue Switch
+- 🖥 Favorite framework(s): Django
+- 💬 Interested in: Python Programming, Cyber Security
 - 🐧 Current Linux Distro: Pop OS 21.10 (Cosmic Edition)
+- ⌨️ Keyboard: HP GK100 - Blue Switch
 
 
 
