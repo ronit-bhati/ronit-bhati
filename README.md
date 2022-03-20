@@ -16,7 +16,7 @@ I am an 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 - 🖥 Favorite language: Python
 - 🖥 Favorite framework(s): Django
 - 💬 Interested in: Python Programming, Cyber Security
-- 🐧 Current Linux Distro: Pop OS 21.10 (Cosmic Edition)
+- 🐧 Current Linux Distro: ArchCrarft (Arch Linux)
 - ⌨️ Keyboard: HP GK100 - Blue Switch
 
 
