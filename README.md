@@ -9,7 +9,7 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Working in Python and JavaScipt from a long time.
 * A learning web developer. Working with Django, JavaScipt, HTML, CSS, learning React Js.
 * Linux Enthusiast and using linux since 2020.
-* Loves Avaiation.
+* "I Use Arch BTW".
 
 ### Some Info
 
