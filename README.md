@@ -12,6 +12,11 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Linux Enthusiast and using linux since 2020.
 * "I Use Arch BTW".
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px align="right">
+
+
 ### Some Info
 
 - 🖥 Favorite language: Python
@@ -21,7 +26,6 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 - ⌨️ Keyboard: HP GK100 - Blue Switch
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px align="right">
 
 ### 🔨 Technologies
 
