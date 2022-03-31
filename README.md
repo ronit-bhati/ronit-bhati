@@ -32,4 +32,4 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 **Languages** | ![Python](https://img.shields.io/badge/-Python%20-darkblue) ![JavaScipt](https://img.shields.io/badge/-JavaScipt%20-green)<br> ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-lightblue)
 :--- | :---
 **Frameworks** | ![Django](https://img.shields.io/badge/-Django-brown) ![Flask](https://img.shields.io/badge/-Flask-black) ![Tkinter](https://img.shields.io/badge/-Tkinter-lightgrey)
-**Coding** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
