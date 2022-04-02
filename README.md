@@ -21,7 +21,7 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 - 🖥 Favorite language: Python
 - 🖥 Favorite framework(s): Django
 - 💬 Interested in: Python Programming, Cyber Security
-- 🐧 Current Linux Distro: ArchCrarft (Arch Linux)
+- 🐧 Current Linux Distro: EndeavourOS (Arch Linux)
 - ⌨️ Keyboard: HP GK100 - Blue Switch
 
 
