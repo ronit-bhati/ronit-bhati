@@ -12,8 +12,7 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Linux Enthusiast and using linux since 2020.
 * "I Use Arch BTW".
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=onedark&langs_count=6" alt="GitHub readme stats" width=405px align="right">
 
 ### Some Info
 
