@@ -1,7 +1,7 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Python%2C+Django%2C+Linux;JavaScipt%2C+HTML%2C+CSS" alt="Django, Python, JavaScipt"></h1>
 
 
-[![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hey there!
@@ -13,7 +13,7 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Linux Enthusiast and using linux since 2020.
 * "I Use Arch BTW".
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Some Info
