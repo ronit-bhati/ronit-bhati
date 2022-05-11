@@ -1,7 +1,7 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Python%2C+Django%2C+Linux;JavaScipt%2C+HTML%2C+CSS" alt="Django, Python, JavaScipt"></h1>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide=issues&custom_title=Ronit's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828" alt="GitHub readme stats" width=451px align=right>
+[![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit-bhati)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hey there!
