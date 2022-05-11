@@ -1,6 +1,6 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Python%2C+Django%2C+Linux;JavaScipt%2C+HTML%2C+CSS" alt="Django, Python, JavaScipt"></h1>
 
-<img scr='https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=aura' width=451px align=right alt='Github Stats'>
+<img scr="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=aura" width=451px align=right alt="Github Stats">
 
 
 ## Hey there!
