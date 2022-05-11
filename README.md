@@ -1,6 +1,6 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Python%2C+Django%2C+Linux;JavaScipt%2C+HTML%2C+CSS" alt="Django, Python, JavaScipt"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=onedark" alt="GitHub readme stats" width=451px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=ronit-bhati&theme=solarized-dark" alt="GitHub readme stats" width=451px align=right>
 
 
 ## Hey there!
@@ -12,7 +12,7 @@ I am a 15 year old Student, Programmer and Linux enthusiast from Delhi, India.
 * Linux Enthusiast and using linux since 2020.
 * "I Use Arch BTW".
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=onedark&langs_count=6" alt="GitHub readme stats" width=405px align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-bhati&layout=compact&theme=solarized-dark&langs_count=6" alt="GitHub readme stats" width=405px align="right">
 
 ### Some Info
 
